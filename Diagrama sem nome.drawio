@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T10:39:10.491Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0" etag="25-u2Z3uuL-V5cdeYfKT" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T10:41:34.267Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0" etag="3p9vagPSBFNtCSy1bTCd" version="22.1.0" type="github">
   <diagram name="Página-1" id="cRFQgQz2K0zeTVE43rAn">
     <mxGraphModel dx="2261" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -209,9 +209,6 @@
         </mxCell>
         <mxCell id="u8rPUhMAoTSoRI9qq7wp-74" value="CLIENTE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="395.75" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="u8rPUhMAoTSoRI9qq7wp-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="u8rPUhMAoTSoRI9qq7wp-75" target="u8rPUhMAoTSoRI9qq7wp-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0cfTMy5gVuN1rgSlO2zM-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u8rPUhMAoTSoRI9qq7wp-75" target="0cfTMy5gVuN1rgSlO2zM-43">
           <mxGeometry relative="1" as="geometry" />
